@@ -262,8 +262,6 @@ To build the demo, go into the "demo" subdirectory and type "make". You
 might have to modify the makefile a bit to get it to compile - locations of
 tools and so on, you know...
 
-The demo sourcecode is provided under GPL, by the way.
-
 You will end up with a main.bin file. This is the demo file. Load it using
 a MBV2 cable, and enjoy (well, I know, it's a pretty lame demo).
 
